@@ -27,4 +27,5 @@ Column Description:
 
 Feel free to explore the Jupyter Notebook and code provided in this repository for a detailed analysis of user behavior and music preferences in Moscow and St. Petersburg, including hypothesis testing and insights into cultural differences through music choices.
 
-Author: Gasym A. Valiyev
+## Author 
+- Gasym A. Valiyev
